@@ -1,0 +1,6 @@
+{
+  "name": "Lakshya - Vivek's Student Vision & Habit Tracker",
+  "description": "Comprehensive student productivity OS for Vivek Yadav featuring multi-year vision to daily task breakdown, study planner with focus timer, habit tracking, daily summaries, visual graphs, and smart notification reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
